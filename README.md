@@ -1,9 +1,6 @@
 # Aulas-design-profissional_cruzeirodosul
 # Sintaxe Markdown
 
-´´´
-
-´´´
 # Titulo Principal
 ## Titulo de seção
 ### Titulo de subserção
